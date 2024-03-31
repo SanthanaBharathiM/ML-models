@@ -1,0 +1,7 @@
+A decision tree is a supervised algorithm used for classification and regression tasks.
+It splits data into subsets based on the most significant feature.
+Each internal node represents a decision based on a feature.
+Each leaf node represents the predicted outcome.
+Decision trees are easy to interpret and visualize.
+However, they can be prone to overfitting.
+Common applications include recommendation systems, fraud detection, and medical diagnosis.
